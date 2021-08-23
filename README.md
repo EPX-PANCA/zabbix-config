@@ -1,4 +1,4 @@
-# zabbix-config
+# SNMP Auto Installer for Zabbix Monitoring Tool
 
 ```sh
 wget https://raw.githubusercontent.com/EPX-PANCA/zabbix-config/main/AZSI.sh
